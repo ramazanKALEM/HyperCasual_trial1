@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4756DE-1125-124C-A738-EF313F24DD58}|Assembly-CSharp.csproj|C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\assets\\script\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4756DE-1125-124C-A738-EF313F24DD58}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4756DE-1125-124C-A738-EF313F24DD58}|Assembly-CSharp.csproj|c:\\users\\ramaz\\onedrive\\masa\u00FCst\u00FC\\hypercasual\\hypercasual_deneme1\\assets\\script\\levelspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4756DE-1125-124C-A738-EF313F24DD58}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\levelspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4756DE-1125-124C-A738-EF313F24DD58}|Assembly-CSharp.csproj|C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\assets\\script\\player_kontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4756DE-1125-124C-A738-EF313F24DD58}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player_kontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4756DE-1125-124C-A738-EF313F24DD58}|Assembly-CSharp.csproj|C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\assets\\script\\scormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4756DE-1125-124C-A738-EF313F24DD58}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4756DE-1125-124C-A738-EF313F24DD58}|Assembly-CSharp.csproj|C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\assets\\script\\obstackleconroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4756DE-1125-124C-A738-EF313F24DD58}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\obstackleconroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4756DE-1125-124C-A738-EF313F24DD58}|Assembly-CSharp.csproj|C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\assets\\script\\direk_takip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4756DE-1125-124C-A738-EF313F24DD58}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\direk_takip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4756DE-1125-124C-A738-EF313F24DD58}|Assembly-CSharp.csproj|C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\assets\\script\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4756DE-1125-124C-A738-EF313F24DD58}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4756DE-1125-124C-A738-EF313F24DD58}|Assembly-CSharp.csproj|C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\assets\\script\\ignoregameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4756DE-1125-124C-A738-EF313F24DD58}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ignoregameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4756DE-1125-124C-A738-EF313F24DD58}|Assembly-CSharp.csproj|C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\assets\\script\\camtakip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4756DE-1125-124C-A738-EF313F24DD58}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\camtakip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4756DE-1125-124C-A738-EF313F24DD58}|Assembly-CSharp.csproj|C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\assets\\script\\rotatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4756DE-1125-124C-A738-EF313F24DD58}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\rotatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4756DE-1125-124C-A738-EF313F24DD58}|Assembly-CSharp.csproj|C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\assets\\script\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4756DE-1125-124C-A738-EF313F24DD58}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ignoreGameUI.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\Assets\\script\\ignoreGameUI.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\ignoreGameUI.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\Assets\\script\\ignoreGameUI.cs",
+              "RelativeToolTip": "Assets\\script\\ignoreGameUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T11:01:09.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\Assets\\script\\LevelSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\LevelSpawner.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\Assets\\script\\LevelSpawner.cs",
+              "RelativeToolTip": "Assets\\script\\LevelSpawner.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAwwIwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:38:36.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player_Kontrol.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\Assets\\script\\Player_Kontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Player_Kontrol.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\Assets\\script\\Player_Kontrol.cs",
+              "RelativeToolTip": "Assets\\script\\Player_Kontrol.cs",
+              "ViewState": "AQIAAM0AAAAAAAAAAAAcwK8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:44:15.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CamTakip.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\Assets\\script\\CamTakip.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\CamTakip.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\Assets\\script\\CamTakip.cs",
+              "RelativeToolTip": "Assets\\script\\CamTakip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:29:52.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Obstacle.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\Assets\\script\\Obstacle.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Obstacle.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\Assets\\script\\Obstacle.cs",
+              "RelativeToolTip": "Assets\\script\\Obstacle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:44:11.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ObstackleConroler.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\Assets\\script\\ObstackleConroler.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\ObstackleConroler.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\Assets\\script\\ObstackleConroler.cs",
+              "RelativeToolTip": "Assets\\script\\ObstackleConroler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:44:07.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameUI.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\Assets\\script\\GameUI.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\GameUI.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\Assets\\script\\GameUI.cs",
+              "RelativeToolTip": "Assets\\script\\GameUI.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAwwAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:44:03.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Direk_Takip.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\Assets\\script\\Direk_Takip.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Direk_Takip.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\Assets\\script\\Direk_Takip.cs",
+              "RelativeToolTip": "Assets\\script\\Direk_Takip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:43:59.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScorManager.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\Assets\\script\\ScorManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\ScorManager.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\Assets\\script\\ScorManager.cs",
+              "RelativeToolTip": "Assets\\script\\ScorManager.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAnwDAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:43:50.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\Assets\\script\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\SoundManager.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\Assets\\script\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\script\\SoundManager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:43:47.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RotateManager.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\Assets\\script\\RotateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\RotateManager.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Masa\u00FCst\u00FC\\HyperCasual\\HyperCasual_Deneme1\\Assets\\script\\RotateManager.cs",
+              "RelativeToolTip": "Assets\\script\\RotateManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:44:21.251Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
